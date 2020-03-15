@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zaemohpaz.januslb.com/sitemap.xml
